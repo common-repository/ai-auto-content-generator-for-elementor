@@ -1,0 +1,60 @@
+{
+   "paragraph":{
+      "menuTitle":"Write a paragraph on this",
+      "prompt":"Write a paragraph on this topic:\n\n[[text]]\n\n----\nWritten paragraph:\n"
+   },
+   "continue":{
+      "menuTitle":"Continue this text",
+      "prompt":"Continue this text:\n\n[[text]]\n\n----\nContinued text:\n"
+   },
+   "ideas":{
+      "menuTitle":"Generate ideas on this",
+      "prompt":"Generate a few ideas on that as bullet points:\n\n[[text]]\n\n----\nGenerated ideas in bullet points:\n"
+   },
+   "article":{
+      "menuTitle":"Write an article about this",
+      "prompt":"Write a complete article about this:\n\n[[text]]\n\n----\nWritten article:\n"
+   },
+   "tldr":{
+      "menuTitle":"Generate a TL;DR",
+      "prompt":"Generate a TL;DR of this text:\n\n[[text]]\n\n----\nTL;DR:\n"
+   },
+   "summarize":{
+      "menuTitle":"Summarize",
+      "prompt":"Summarize this text:\n\n[[text]]\n\n----\nSummary:\n"
+   },
+   "summarize-concise":{
+      "menuTitle":"Summarize (concise)",
+      "prompt":"Summarize this text in a concise way:\n\n[[text]]\n\n----\nConcise Summary:\n"
+   },
+   "summarize-bullet-points":{
+      "menuTitle":"Summarize (bullet points)",
+      "prompt":"Summarize this text into bullet points:\n\n[[text]]\n\n----\nSummary:\n"
+   },
+   "paraphrase":{
+      "menuTitle":"Paraphrase",
+      "prompt":"Paraphrase this text:\n\n[[text]]\n\n----\nParaphrased text:\n"
+   },
+   "paraphrase-sarcastic":{
+      "menuTitle":"Paraphrase (sarcastic)",
+      "prompt":"Paraphrase this text in a sarcastic way:\n\n[[text]]\n\n----\nParaphrased sarcastic text:\n"
+   },
+   "paraphrase-humorous":{
+      "menuTitle":"Paraphrase (humorous)",
+      "prompt":"Paraphrase this text in a humorous way:\n\n[[text]]\n\n----\nParaphrased humorous text:\n"
+   },
+   "subtitle":{
+      "menuTitle":"Generate subtitle",
+      "prompt":"Generate a title for this text:\n\n[[text]]\n\n----\nTitle:\n"
+   },
+   "ad":{
+      "menuTitle":"Turn into advertisement",
+      "prompt":"Turn the following text into a creative advertisement:\n\n[[text]]\n\n----\nAdvertisement:\n"
+   },
+   "eli5":{
+      "menuTitle":"Explain to a 5 years old kid",
+      "prompt":"Explain this to a 5 years old kid:\n\n[[text]]\n\n----\nExplanation:\n"
+   }
+   
+ 
+}
